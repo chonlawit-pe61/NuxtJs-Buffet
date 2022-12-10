@@ -1,5 +1,7 @@
 # nuxtapp
 
+credit https://www.youtube.com/watch?v=eIFSowPTAoI&ab_channel=MarkStory
+
 ## Build Setup
 
 ```bash
